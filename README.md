@@ -60,16 +60,3 @@ Besides, it also using the following server side libaries:
 - EXIF Tool [Link] (http://www.sno.phy.queensu.ca/~phil/exiftool/);
 - Magick.NET [Link] (https://www.imagemagick.org/)
 
-
-## Author
-**Alva Chien | 钱红俊**
-
-A programmer, and a certificated Advanced Photographer.  
- 
-Contact me:
-
-1. Via mail: alvachien@163.com. Or,
-2. [Check my flickr](http://www.flickr.com/photos/alvachien).
-
-## Licence
-MIT
